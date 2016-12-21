@@ -29,7 +29,6 @@ bool is_attacked(int board[N][N], int i, int j)
  
 	return false;
 }
- 
 bool N_Queens(int board[N][N], int n)
 {
 	if(n == 0)
@@ -50,7 +49,6 @@ bool N_Queens(int board[N][N], int n)
 		}
 	return false;
 }
- 
 int main()
 {
     scanf("%d", &N);
