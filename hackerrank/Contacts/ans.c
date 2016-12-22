@@ -52,7 +52,7 @@ int main()
 
     while(n--)
     {
-        char op[4], str[21];
+        char op[5], str[22];
         scanf("%s", op);
         scanf("%s", str);
 
